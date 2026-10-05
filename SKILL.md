@@ -12,7 +12,7 @@ user-invocable: false
 
 # Web builder
 
-Use this when a surface should feel like it was composed, not stacked. Northroom
+Use this when a surface should feel like it was composed, not stacked. ObzueAI Independent
 stalls and member profiles are the reference implementation.
 
 The rules below are an original synthesis of public product behavior from the

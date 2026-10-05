@@ -14,7 +14,7 @@ are licenses to vendor their UI or code.
 9. **Microweber — shop in the page.** A stall's music and merch are tabs under the identity, with add-to-basket on the same surface.
 10. **Frappe Builder — what you preview is what you open.** The community wall's spotlight uses the same `IdentityStage` as the stall. Hover is not a different design.
 
-## Northroom mapping
+## ObzueAI Independent mapping
 
 - Stage: `src/components/identity.tsx` (`IdentityStage`, `MemberCard`, `PlatePicker`)
 - Tokens and motion: `src/styles.css` (`.banner-zoom`, `.portrait-live`, `.plate-*`)
